@@ -37,6 +37,8 @@
 
 ## 📢 Competitive Programming Handles
 <p >
+
+
    <a href="https://www.codechef.com/users/sahil_11">
     <img src="https://cp-logo.vercel.app/codechef/sahil_11" alt="codechef" style="vertical-align:top; margin:35px">
   </a>&nbsp;&nbsp;&nbsp;
@@ -60,7 +62,7 @@
 ⭐️ From [Sahil-kotak](https://github.com/Sahil-kotak)
 
 <!--
-**Sahil-kotak/Sahil-kotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sahil-Kotak/Sahil-Kotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
