@@ -13,6 +13,7 @@
 <li>Java</li>
 <li>C</li>
 <li>Database Management System</li>
+<li>Competitive Programming</li>
 <li>Web Development</li>
 <li>SQL</li>
 <li>GIT</li>
