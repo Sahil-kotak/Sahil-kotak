@@ -51,10 +51,6 @@
   
   
   
-  <a href="https://www.hackerrank.com/sahilkotak12345">
-    <img src="https://cp-logo.vercel.app/hackerrank/sahilkotak12345" alt="hackerrank" style="vertical-align:top; margin:35px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
   
  
  
